@@ -1,0 +1,3 @@
+com\thoughtmechanix\authentication\AuthenticationServiceApplication.class
+com\thoughtmechanix\authentication\security\OAuth2Config.class
+com\thoughtmechanix\authentication\security\WebSecurityConfigurer.class
