@@ -1,9 +1,5 @@
 Hello everyone!
-<<<<<<< HEAD
-
 Local added 1
 Local added 2
-=======
 Remote added 1
 Remote added 2
->>>>>>> 7f7372b90c0248f779b923ee1d097f9ad59869fe
